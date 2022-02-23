@@ -1,5 +1,5 @@
 import styled from '@emotion/styled'
-import { media } from '../../shared/global';
+import { media } from '../global';
 
 export const Container = styled.div`
   display:flex;

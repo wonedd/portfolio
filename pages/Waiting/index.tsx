@@ -1,4 +1,4 @@
-import { Container, Content, Loader} from './styles'
+import { Container, Content, Loader} from '../../shared/Waiting/styles'
 
 export default function Waiting (){
 

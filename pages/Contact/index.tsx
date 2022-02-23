@@ -1,4 +1,4 @@
-import { Container, Content, Title, Goat, Icon, SubmitButton, MessageBox } from './styles'
+import { Container, Content, Title, Goat, Icon, SubmitButton, MessageBox } from '../../shared/Contact/styles'
 import { IoPrism } from "react-icons/io5";
 import { useRouter } from 'next/router';
 
