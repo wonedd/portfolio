@@ -23,7 +23,7 @@ export function Header() {
       <Container isOpen={isOpen}>
         <Logo />
         <Nav>
-          <NavItem title="WORK" />
+        <Link href="/Waiting">WORK</Link>
           <Link href="/Contact">CONTACT</Link>
           <Link href="/Waiting">STORE</Link>
           <Link href="/Waiting">ARTICLES</Link>
